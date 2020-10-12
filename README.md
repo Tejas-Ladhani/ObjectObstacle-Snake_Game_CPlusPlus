@@ -72,7 +72,9 @@ In this busy world where everyone is stressed about something. Someone is worrie
 <br>
 
 <h2>Conclusion</h2>
-From this project we have developed some curiosity towards game development in smaller minds. By playing these game one can Improve……<br>
+From this project we have developed some curiosity towards game development in smaller minds.
+<br><br>
+By playing these game one can Improve……<br>
 1. Co-ordination<br>
 2. Attention and Concentration<br>
 3. Brain Speed<br>
