@@ -24,10 +24,10 @@ In this busy world where everyone is stressed about something. Someone is worrie
               </ul>
 <h2>Functionality</h2>
 <b>1.</b> Starting Screen(Home Screen)</br>
-<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/Annotation%202020-10-12%20220511.png" />
+<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/Annotation%202020-10-12%20220511.png" />
 
 <b>2.</b>Menu</br>
-<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P2.png" />
+<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/P2.png" />
 </br>
 </br>
 
@@ -35,15 +35,15 @@ In this busy world where everyone is stressed about something. Someone is worrie
 </br>
   <ol>
   <li>Instructions</br>
-  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3.png" />
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/P3.png" />
   </li>
 </br>
   <li> The Game</br>
-  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3(2).png" />
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/P3(2).png" />
   </li>
   </br>
     <li>"Game Over"</br>
-  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3(3).png" />
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/P3(3).png" />
   </li>
 </br>
 </ol>
@@ -53,22 +53,22 @@ In this busy world where everyone is stressed about something. Someone is worrie
 </br>
 <ol>
   <li>Instructions</br>
-  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P4.png" />
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/P4.png" />
   </li>
 </br>
   <li> The Game</br>
-  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P4(2).png" />
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/P4(2).png" />
   </li>
   </br>
     <li>"Game Over"</br>
-  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P4(3).png" />
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/P4(3).png" />
   </li>
 </br>
 </ol>
 
 <br>
 <b>5.</b>"About Us" page</br>
-<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/ABOUT_US.png" />
+<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/ABOUT_US.png" />
 <br>
 
 <h2>Conclusion</h2>
