@@ -29,6 +29,8 @@ In this busy world where everyone is stressed about something. Someone is worrie
 <b>2.</b>Menu</br>
 <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P2.png" />
 </br>
+</br>
+
 <b>3.</b>"The Snake Game"
 </br>
   <ol>
@@ -36,7 +38,7 @@ In this busy world where everyone is stressed about something. Someone is worrie
   <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3.png" />
   </li>
 </br>
-  <li>Game</br>
+  <li> The Game</br>
   <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3(2).png" />
   </li>
   </br>
@@ -44,7 +46,35 @@ In this busy world where everyone is stressed about something. Someone is worrie
   <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3(3).png" />
   </li>
 </br>
-</ol
+</ol>
 
 
-                
+<b>4.</b>"Dodge King"</br>
+</br>
+<ol>
+  <li>Instructions</br>
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P4.png" />
+  </li>
+</br>
+  <li> The Game</br>
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P4(2).png" />
+  </li>
+  </br>
+    <li>"Game Over"</br>
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P4(3).png" />
+  </li>
+</br>
+</ol>
+
+<br>
+<b>5.</b>"About Us" page</br>
+<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/ABOUT_US.png" />
+<br>
+
+<h2>Conclusion</h2>
+From this project we have developed some curiosity towards game development in smaller minds. By playing these game one can Improve……
+1. Co-ordination
+2. Attention and Concentration
+3. Brain Speed
+</br>
+             
