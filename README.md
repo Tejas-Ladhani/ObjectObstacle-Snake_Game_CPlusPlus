@@ -28,10 +28,11 @@ In this busy world where everyone is stressed about something. Someone is worrie
 
 <b>2.</b>Menu</br>
 <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P2.png" />
+</br>
 <b>3.</b>"The Snake Game"
 </br>
   <ol>
-  <li>Instructions
+  <li>Instructions</br>
   <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3.png" />
   </li>
 </br>
