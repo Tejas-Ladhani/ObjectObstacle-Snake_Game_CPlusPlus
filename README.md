@@ -1,5 +1,5 @@
 <h1>The Game</h1>
-It is a console based game(contains Stress Buster Games) made in c++ .
+It is a console based game(Dodge-Ball & Snake-Game) made in c++ (CPP-11).
 
 <h2>Objective:</h2>
 
