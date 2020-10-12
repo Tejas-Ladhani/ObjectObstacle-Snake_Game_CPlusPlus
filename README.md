@@ -24,5 +24,25 @@ In this busy world where everyone is stressed about something. Someone is worrie
               </ul>
 <h2>Functionality</h2>
 <b>1.</b> Starting Screen(Home Screen)
-<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/Annotation%202020-10-12%20220511.png"/>
+<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/Annotation%202020-10-12%20220511.png" />
+
+<b>2.</b>Menu
+<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P2.png" />
+<b>3.</b>"The Snake Game"
+  <ol>
+  <li>Instructions
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3.png" />
+  </li>
+
+  <li>Game
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3(2).png" />
+  </li>
+  
+    <li>"Game Over"
+  <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3(3).png" />
+  </li>
+
+</ol
+
+
                 
