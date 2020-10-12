@@ -34,14 +34,14 @@ In this busy world where everyone is stressed about something. Someone is worrie
   <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3.png" />
   </li>
 
-  <li>Game
+  <li>Game</br>
   <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3(2).png" />
   </li>
-  
-    <li>"Game Over"
+  </br>
+    <li>"Game Over"</br>
   <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/P3(3).png" />
   </li>
-
+</br>
 </ol
 
 
