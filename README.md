@@ -17,7 +17,7 @@ In this busy world where everyone is stressed about something. Someone is worrie
                     <li> Looping</li>
                     <li> Creating and Combining own Header files</li>
                     <li> Runtime UI</li>
-                    <li> “windows.h” Functions</li>
+                    <li> “windows.h” library's functions</li>
                     <li> system() Function</li>
                     <li> Macros</li>
                     <li> Managing Console Screen</li>
