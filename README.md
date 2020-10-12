@@ -1,7 +1,7 @@
 <h1>The Game</h1>
-<p><img src="https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif" alt="image" width="220px" height="120px" /><h2>Objective:</h2><br>It is a console based game(Dodge-Ball & Snake-Game) made in c++ (CPP-11).
+<p><img style= "padding-Top:"32px";"src="https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif" alt="image" width="220px" height="120px" />It is a console based game(Dodge-Ball & Snake-Game) made in c++ (CPP-11).
 </p>
-
+<h2>Objective:</h2><br>
 In this busy world where everyone is stressed about something. Someone is worried about their child, someone is worried about their carrier, someone is worried about their upcoming exams etc. In this scenario people have forgot to take a break and just relax and chill to fresh your mind. Basically our mind also needs some relaxation time, so by keeping this in mind, we (Rudra Chauhan-19IT025 and Tejas Ladhani-19IT058) have created some stress buster games in our project for relaxation and for some fun.
 
 <h2>Concepts Covered:</h2>
