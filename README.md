@@ -21,4 +21,8 @@ In this busy world where everyone is stressed about something. Someone is worrie
                     <li> system() Function</li>
                     <li> Macros</li>
                     <li> Managing Console Screen</li>
-              <ul>
+              </ul>
+<h2>Functionality</h2>
+**1.**Starting Screen(Home Screen)
+<img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/Annotation%202020-10-12%20220511.png"/>
+                
