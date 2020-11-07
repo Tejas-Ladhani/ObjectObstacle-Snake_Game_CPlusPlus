@@ -69,7 +69,7 @@ In this busy world where everyone is stressed about something. Someone is worrie
 </ol>
 
 <br>
-<b>5.</b>"About Us" page</br>
+<b>5.</b>"About Us"</br>
 <img src="https://github.com/Tejas-Ladhani/ObjectObstacle-Snake_Game_CPlusPlus/blob/master/images/ABOUT_US.png" />
 <br>
 
